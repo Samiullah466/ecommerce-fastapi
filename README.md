@@ -107,7 +107,7 @@ Ecommerce_API
 9- Installation
 
 -> Clone the repository
-- git clone https://github.com/yourusername/ecommerce-api.git
+- git clone https://github.com/Samiullah466/ecommerce-fastapi.git
 - cd ecommerce-api
 
 
